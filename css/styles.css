@@ -609,7 +609,7 @@ progress {
 
 @media (max-width: 575.98px) {
   .img-fluid {
-    height: auto%;
+    height: auto;
   }
 }
 
